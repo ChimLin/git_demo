@@ -1,2 +1,5 @@
 Some 2 words of the songs
 The second statement
+
+THe third comments in the file
+Normalization
